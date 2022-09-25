@@ -1,2 +1,2 @@
-# BootstrapActivity
-bootstrap activity kodego
+# Bootstrap-Act
+  bootstrap activity-kodego
